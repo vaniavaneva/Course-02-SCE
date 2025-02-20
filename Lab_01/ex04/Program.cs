@@ -1,4 +1,6 @@
-﻿namespace ex04
+﻿using System;
+
+namespace ex04
 {
     internal class Program
     {

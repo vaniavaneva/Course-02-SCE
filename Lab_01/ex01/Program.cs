@@ -1,4 +1,6 @@
-﻿namespace ex01
+﻿using System;
+
+namespace ex01
 {
     internal class Program
     {

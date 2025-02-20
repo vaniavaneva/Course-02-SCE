@@ -12,3 +12,4 @@ E:\Course-02-SCE\Lab_01\extra_ex03\obj\Debug\net8.0\refint\extra_ex03.dll
 E:\Course-02-SCE\Lab_01\extra_ex03\obj\Debug\net8.0\extra_ex03.pdb
 E:\Course-02-SCE\Lab_01\extra_ex03\obj\Debug\net8.0\extra_ex03.genruntimeconfig.cache
 E:\Course-02-SCE\Lab_01\extra_ex03\obj\Debug\net8.0\ref\extra_ex03.dll
+E:\Course-02-SCE\Lab_01\extra_ex03\obj\Debug\net8.0\extra_ex03.sourcelink.json

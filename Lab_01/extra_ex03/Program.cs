@@ -1,4 +1,6 @@
-﻿namespace extra_ex03
+﻿using System;
+
+namespace extra_ex03
 {
     internal class Program
     {
