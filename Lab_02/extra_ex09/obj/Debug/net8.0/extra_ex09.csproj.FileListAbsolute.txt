@@ -1,0 +1,15 @@
+E:\Course-02-SCE\Lab_02\extra_ex09\bin\Debug\net8.0\extra_ex09.exe
+E:\Course-02-SCE\Lab_02\extra_ex09\bin\Debug\net8.0\extra_ex09.deps.json
+E:\Course-02-SCE\Lab_02\extra_ex09\bin\Debug\net8.0\extra_ex09.runtimeconfig.json
+E:\Course-02-SCE\Lab_02\extra_ex09\bin\Debug\net8.0\extra_ex09.dll
+E:\Course-02-SCE\Lab_02\extra_ex09\bin\Debug\net8.0\extra_ex09.pdb
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.AssemblyInfoInputs.cache
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.AssemblyInfo.cs
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.csproj.CoreCompileInputs.cache
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.sourcelink.json
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.dll
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\refint\extra_ex09.dll
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.pdb
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\extra_ex09.genruntimeconfig.cache
+E:\Course-02-SCE\Lab_02\extra_ex09\obj\Debug\net8.0\ref\extra_ex09.dll
