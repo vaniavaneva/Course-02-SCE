@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Course-02-SCE\\Lab_03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42C2D6AE-362B-4344-8102-B0AFB19E49F6}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_03\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C2D6AE-362B-4344-8102-B0AFB19E49F6}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E0C950F-204C-4013-AB42-2D809DCD3C35}|ex04\\ex04.csproj|e:\\course-02-sce\\lab_03\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E0C950F-204C-4013-AB42-2D809DCD3C35}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{51B7C4C2-F983-499B-BE7E-87FDB6959D06}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_03\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51B7C4C2-F983-499B-BE7E-87FDB6959D06}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C2D6AE-362B-4344-8102-B0AFB19E49F6}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_03\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42C2D6AE-362B-4344-8102-B0AFB19E49F6}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Course-02-SCE\\Lab_03\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
               "ToolTip": "E:\\Course-02-SCE\\Lab_03\\ex04\\Program.cs",
               "RelativeToolTip": "ex04\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T11:27:59.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Course-02-SCE\\Lab_03\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
               "ToolTip": "E:\\Course-02-SCE\\Lab_03\\ex03\\Program.cs",
               "RelativeToolTip": "ex03\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T11:10:31.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Course-02-SCE\\Lab_03\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Course-02-SCE\\Lab_03\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
               "ToolTip": "E:\\Course-02-SCE\\Lab_03\\ex02\\Program.cs",
               "RelativeToolTip": "ex02\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T10:30:54.324Z",
               "EditorCaption": ""

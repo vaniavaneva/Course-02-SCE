@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Course-02-SCE\\Lab_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0415EEBB-F164-4F92-8CD4-0C160DF9EDEC}|ex04\\ex04.csproj|e:\\course-02-sce\\lab_04\\ex04\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0415EEBB-F164-4F92-8CD4-0C160DF9EDEC}|ex04\\ex04.csproj|solutionrelative:ex04\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0415EEBB-F164-4F92-8CD4-0C160DF9EDEC}|ex04\\ex04.csproj|e:\\course-02-sce\\lab_04\\ex04\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0415EEBB-F164-4F92-8CD4-0C160DF9EDEC}|ex04\\ex04.csproj|solutionrelative:ex04\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0415EEBB-F164-4F92-8CD4-0C160DF9EDEC}|ex04\\ex04.csproj|e:\\course-02-sce\\lab_04\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0415EEBB-F164-4F92-8CD4-0C160DF9EDEC}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_04\\ex04\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ex04\\Rectangle.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_04\\ex04\\Rectangle.cs",
+              "RelativeToolTip": "ex04\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:26:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_04\\ex04\\Point.cs",
+              "RelativeDocumentMoniker": "ex04\\Point.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_04\\ex04\\Point.cs",
+              "RelativeToolTip": "ex04\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:25:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_04\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_04\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:24:48.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
