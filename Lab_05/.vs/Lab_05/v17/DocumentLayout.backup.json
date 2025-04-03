@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Course-02-SCE\\Lab_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FD958-1E6B-4944-8FC6-9BF5FD4912C7}|ex03\\ex03.csproj|e:\\course-02-sce\\lab_05\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1FD958-1E6B-4944-8FC6-9BF5FD4912C7}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FD958-1E6B-4944-8FC6-9BF5FD4912C7}|ex03\\ex03.csproj|e:\\course-02-sce\\lab_05\\ex03\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1FD958-1E6B-4944-8FC6-9BF5FD4912C7}|ex03\\ex03.csproj|solutionrelative:ex03\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763B5AD6-7678-4ED1-9FF6-44A3E8BB4187}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_05\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763B5AD6-7678-4ED1-9FF6-44A3E8BB4187}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763B5AD6-7678-4ED1-9FF6-44A3E8BB4187}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_05\\ex02\\convertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763B5AD6-7678-4ED1-9FF6-44A3E8BB4187}|ex02\\ex02.csproj|solutionrelative:ex02\\convertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504A9CC-F93F-4B64-9F9E-E2348EA11D43}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_05\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504A9CC-F93F-4B64-9F9E-E2348EA11D43}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504A9CC-F93F-4B64-9F9E-E2348EA11D43}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_05\\ex01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504A9CC-F93F-4B64-9F9E-E2348EA11D43}|ex01\\ex01.csproj|solutionrelative:ex01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_05\\ex03\\Program.cs",
+              "RelativeDocumentMoniker": "ex03\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_05\\ex03\\Program.cs",
+              "RelativeToolTip": "ex03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:36:00.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_05\\ex03\\Complex.cs",
+              "RelativeDocumentMoniker": "ex03\\Complex.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_05\\ex03\\Complex.cs",
+              "RelativeToolTip": "ex03\\Complex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:34:59.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_05\\ex02\\Program.cs",
+              "RelativeDocumentMoniker": "ex02\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_05\\ex02\\Program.cs",
+              "RelativeToolTip": "ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:34:22.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Convertor.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_05\\ex02\\Convertor.cs",
+              "RelativeDocumentMoniker": "ex02\\Convertor.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_05\\ex02\\Convertor.cs",
+              "RelativeToolTip": "ex02\\Convertor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:32:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_05\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "ex01\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_05\\ex01\\Program.cs",
+              "RelativeToolTip": "ex01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:32:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_05\\ex01\\Point.cs",
+              "RelativeDocumentMoniker": "ex01\\Point.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_05\\ex01\\Point.cs",
+              "RelativeToolTip": "ex01\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:31:16.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

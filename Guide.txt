@@ -1,0 +1,5 @@
+Lab_01 - Input & Output.
+Lab_02 - Operators & Conditional statements.
+Lab_03 - Arrays & For - Foreach.
+Lab_04 - Classes & Objects.
+Lab_05 - Static methods.
