@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "E:\\Course-02-SCE\\Lab_07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D40D8559-1BFE-4717-8F28-5AC7156D9BA9}|ex03\\ex03.csproj|e:\\course-02-sce\\lab_07\\ex03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40D8559-1BFE-4717-8F28-5AC7156D9BA9}|ex03\\ex03.csproj|solutionrelative:ex03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAEEE46A-96A3-4C5F-A4C9-E1391DAE220A}|extra_ex03\\extra_ex03.csproj|e:\\course-02-sce\\lab_07\\extra_ex03\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEEE46A-96A3-4C5F-A4C9-E1391DAE220A}|extra_ex03\\extra_ex03.csproj|solutionrelative:extra_ex03\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D40D8559-1BFE-4717-8F28-5AC7156D9BA9}|ex03\\ex03.csproj|e:\\course-02-sce\\lab_07\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40D8559-1BFE-4717-8F28-5AC7156D9BA9}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAEEE46A-96A3-4C5F-A4C9-E1391DAE220A}|extra_ex03\\extra_ex03.csproj|e:\\course-02-sce\\lab_07\\extra_ex03\\programmers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEEE46A-96A3-4C5F-A4C9-E1391DAE220A}|extra_ex03\\extra_ex03.csproj|solutionrelative:extra_ex03\\programmers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA0749A7-3658-4829-B614-B12F65A8EE77}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_07\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0749A7-3658-4829-B614-B12F65A8EE77}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA0749A7-3658-4829-B614-B12F65A8EE77}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_07\\ex02\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0749A7-3658-4829-B614-B12F65A8EE77}|ex02\\ex02.csproj|solutionrelative:ex02\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAEEE46A-96A3-4C5F-A4C9-E1391DAE220A}|extra_ex03\\extra_ex03.csproj|e:\\course-02-sce\\lab_07\\extra_ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEEE46A-96A3-4C5F-A4C9-E1391DAE220A}|extra_ex03\\extra_ex03.csproj|solutionrelative:extra_ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\ex03\\Person.cs",
-              "RelativeDocumentMoniker": "ex03\\Person.cs",
-              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\ex03\\Person.cs",
-              "RelativeToolTip": "ex03\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Title": "Managers.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\extra_ex03\\Managers.cs",
+              "RelativeDocumentMoniker": "extra_ex03\\Managers.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\extra_ex03\\Managers.cs",
+              "RelativeToolTip": "extra_ex03\\Managers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:28:27.728Z",
+              "WhenOpened": "2025-04-17T10:08:48.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\ex03\\Program.cs",
-              "RelativeDocumentMoniker": "ex03\\Program.cs",
-              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\ex03\\Program.cs",
-              "RelativeToolTip": "ex03\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Title": "Programmers.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\extra_ex03\\Programmers.cs",
+              "RelativeDocumentMoniker": "extra_ex03\\Programmers.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\extra_ex03\\Programmers.cs",
+              "RelativeToolTip": "extra_ex03\\Programmers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:27:54.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\ex02\\Car.cs",
-              "RelativeDocumentMoniker": "ex02\\Car.cs",
-              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\ex02\\Car.cs",
-              "RelativeToolTip": "ex02\\Car.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:08:05.182Z",
+              "WhenOpened": "2025-04-17T10:01:49.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\ex02\\Program.cs",
-              "RelativeDocumentMoniker": "ex02\\Program.cs",
-              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\ex02\\Program.cs",
-              "RelativeToolTip": "ex02\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCQAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_07\\extra_ex03\\Program.cs",
+              "RelativeDocumentMoniker": "extra_ex03\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_07\\extra_ex03\\Program.cs",
+              "RelativeToolTip": "extra_ex03\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:07:35.09Z",
+              "WhenOpened": "2025-04-17T09:58:17.303Z",
               "EditorCaption": ""
             }
           ]
