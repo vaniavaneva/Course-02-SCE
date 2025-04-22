@@ -5,3 +5,4 @@ Lab_04 - Classes & Objects.
 Lab_05 - Static methods.
 Lab_06 - Objects & Constructors
 Lab_07 - Properties
+Lab_08 - Exceptions
