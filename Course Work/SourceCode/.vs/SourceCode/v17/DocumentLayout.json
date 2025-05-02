@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Course-02-SCE\\Course Work\\SourceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44C827-80B2-4AA4-BEE6-2085AA53D155}|courseWork\\courseWork.csproj|e:\\course-02-sce\\course work\\sourcecode\\coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44C827-80B2-4AA4-BEE6-2085AA53D155}|courseWork\\courseWork.csproj|solutionrelative:coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F44C827-80B2-4AA4-BEE6-2085AA53D155}|courseWork\\courseWork.csproj|e:\\course-02-sce\\course work\\sourcecode\\coursework\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F44C827-80B2-4AA4-BEE6-2085AA53D155}|courseWork\\courseWork.csproj|solutionrelative:coursework\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Course Work\\SourceCode\\courseWork\\Workout.cs",
+              "RelativeDocumentMoniker": "courseWork\\Workout.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Course Work\\SourceCode\\courseWork\\Workout.cs",
+              "RelativeToolTip": "courseWork\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:18:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Course Work\\SourceCode\\courseWork\\Program.cs",
+              "RelativeDocumentMoniker": "courseWork\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Course Work\\SourceCode\\courseWork\\Program.cs",
+              "RelativeToolTip": "courseWork\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:17:31.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

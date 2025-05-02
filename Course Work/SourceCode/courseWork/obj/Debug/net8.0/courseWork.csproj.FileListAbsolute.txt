@@ -1,0 +1,15 @@
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\bin\Debug\net8.0\courseWork.exe
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\bin\Debug\net8.0\courseWork.deps.json
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\bin\Debug\net8.0\courseWork.runtimeconfig.json
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\bin\Debug\net8.0\courseWork.dll
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\bin\Debug\net8.0\courseWork.pdb
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.AssemblyInfoInputs.cache
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.AssemblyInfo.cs
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.csproj.CoreCompileInputs.cache
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.sourcelink.json
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.dll
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\refint\courseWork.dll
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.pdb
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\courseWork.genruntimeconfig.cache
+E:\Course-02-SCE\Course Work\SourceCode\courseWork\obj\Debug\net8.0\ref\courseWork.dll
