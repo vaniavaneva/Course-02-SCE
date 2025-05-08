@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Course-02-SCE\\Lab_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E6DC4F-57CA-4C69-A373-B71E96421A55}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_09\\ex02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E6DC4F-57CA-4C69-A373-B71E96421A55}|ex02\\ex02.csproj|solutionrelative:ex02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E6DC4F-57CA-4C69-A373-B71E96421A55}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_09\\ex02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E6DC4F-57CA-4C69-A373-B71E96421A55}|ex02\\ex02.csproj|solutionrelative:ex02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E6DC4F-57CA-4C69-A373-B71E96421A55}|ex02\\ex02.csproj|e:\\course-02-sce\\lab_09\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E6DC4F-57CA-4C69-A373-B71E96421A55}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_09\\ex01\\cone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|solutionrelative:ex01\\cone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_09\\ex01\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|solutionrelative:ex01\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_09\\ex01\\circumference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|solutionrelative:ex01\\circumference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|e:\\course-02-sce\\lab_09\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE190AE-D57D-43FD-BFAC-D5E778DCEC2B}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex02\\Student.cs",
+              "RelativeDocumentMoniker": "ex02\\Student.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex02\\Student.cs",
+              "RelativeToolTip": "ex02\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:22:16.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex02\\Person.cs",
+              "RelativeDocumentMoniker": "ex02\\Person.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex02\\Person.cs",
+              "RelativeToolTip": "ex02\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:16:17.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex02\\Program.cs",
+              "RelativeDocumentMoniker": "ex02\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex02\\Program.cs",
+              "RelativeToolTip": "ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:14:38.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cone.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex01\\Cone.cs",
+              "RelativeDocumentMoniker": "ex01\\Cone.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex01\\Cone.cs",
+              "RelativeToolTip": "ex01\\Cone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:57:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cylinder.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex01\\Cylinder.cs",
+              "RelativeDocumentMoniker": "ex01\\Cylinder.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex01\\Cylinder.cs",
+              "RelativeToolTip": "ex01\\Cylinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:51:31.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circumference.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex01\\Circumference.cs",
+              "RelativeDocumentMoniker": "ex01\\Circumference.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex01\\Circumference.cs",
+              "RelativeToolTip": "ex01\\Circumference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:46:03.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course-02-SCE\\Lab_09\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "ex01\\Program.cs",
+              "ToolTip": "E:\\Course-02-SCE\\Lab_09\\ex01\\Program.cs",
+              "RelativeToolTip": "ex01\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:43:09.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
